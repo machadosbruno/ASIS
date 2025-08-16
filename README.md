@@ -1,5 +1,5 @@
 # Análise de Sistemas
 
-Repositório destinado a armazenar os sites desenvolvidos nas aulas de Desenvolvimento Web I do Curso Tecnólogo em Análise e Desenvolvimento de Sistemas. Curso realizado no IFSP - Barretos.
+Repositório destinado a armazenar os conteúdos das aulas de Análise de Sistemas do Curso Tecnólogo em Análise e Desenvolvimento de Sistemas. Curso realizado no IFSP - Barretos.
 
-3º semestre, ano 2025
+4º semestre, ano 2025
